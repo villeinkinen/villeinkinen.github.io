@@ -46,6 +46,11 @@ Bio pic stop fade at mouseover:
 Google Search:
 - In _config.yml, to verify domain ownership, insert the code from google:
 - google_site_verification : "IXghBQ3KNrCXChHHSRc8lXktBHbliKWRKnpaSuTbDGY"
+- NOT WORKING ATM
+
+Adding Google Analytics:
+- As here: https://www.cross-validated.com/Personal-website-with-Minimal-Mistakes-Jekyll-Theme-HOWTO-Part-IV/
+
 
 
 
