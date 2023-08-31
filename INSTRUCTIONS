@@ -30,7 +30,8 @@ Bio pic size:
 Bio pic stop fade at mouseover:
 - https://talk.jekyllrb.com/t/avatar-image-changes-color-on-mouseover/7798/4
 - To stop the fade at mouseover:
-	- In _sass/minimal_mistakes/_sidebar.css, change "opacity: 0.75" to "opacity: 1"
+	- In _sass/minimal_mistakes/_sidebar.css, copy .sidebar to main.scss
+	- In main.scss, change "opacity: 0.75" to "opacity: 1"
 - To disable the pic from being a link:
 	- In _includes/author-profile.html
 
