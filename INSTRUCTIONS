@@ -43,5 +43,10 @@ Bio pic stop fade at mouseover:
 	    </div>
 	  {% endif %}
 
+Google Search:
+- In _config.yml, to verify domain ownership, insert the code from google:
+- google_site_verification : "IXghBQ3KNrCXChHHSRc8lXktBHbliKWRKnpaSuTbDGY"
+
+
 
 -->
