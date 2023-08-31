@@ -8,6 +8,21 @@ comments: true
 ---
 
 <!--
+
+Step-by-step instructions:
+
+Fork the minimal mistakes repo: https://github.com/mmistakes/minimal-mistakes
+
+Add the following line to Gemfile:
+gem "minimal-mistakes-jekyll"
+
+Make edits to _config.yml; add pics etc to assets folder
+
+Subpages: Add .md to _pages; make corresponding edits to _navigation.yml
+- See how the header is written in the .md documents
+
+Delete index.html; jekyll will now look for home.md in _pages
+
 How to make global edits to font size etc:
 - Navigate to assets/css/main.scss
 - See how I changed the font size for the archive class
