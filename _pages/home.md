@@ -7,8 +7,6 @@ author_profile: true
 comments: true
 ---
 
-### Welcome
-
 Hi! This is the first draft of my personal webpage. I will add more content during the coming days.
 
 ### About me

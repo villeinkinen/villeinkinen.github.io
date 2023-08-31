@@ -10,7 +10,7 @@ comments: true
 
 (Work in progress, with Jessica Coria, João Vaz, and Yann Clough)
 
-In this paper, we evaluate the environmental performance of the market-based environmental offsetting program opearting under the US Clean Water Act. In particular, we delineate wetland area gains at wetland restoration sites and assess the additionality of wetland area gains against various counterfactual scenarios. While we find that the observed gains are largely additional, it appears that the regulatory program is&mdash;contrary to its stated objectives&mdash;resulting in net loss of wetland area.
+In this paper, we evaluate the environmental performance of the market-based environmental offsetting program opearting under the US Clean Water Act. We delineate wetland area gains at wetland restoration sites using imagery and then assess the timing of the gains using land cover change detection data from the USGS. As the timing of the wetland area gains coincides with enrollment into the offsetting program, we find that the observed gains are largely additional. However, our findings also suggest that the offsetting program is&mdash;contrary to its stated objectives&mdash;resulting in net loss of wetland area.
 
 ### _The Choice of Mechanism for Biodiversity Offsetting_
 
