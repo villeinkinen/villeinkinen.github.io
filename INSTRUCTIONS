@@ -9,10 +9,10 @@ gem "minimal-mistakes-jekyll"
 
 Make edits to _config.yml; add pics etc to assets folder
 
-Subpages: Add .md to _pages; make corresponding edits to _navigation.yml
+Subpages: Add .md to _pages; make corresponding edits to /data/_navigation.yml
 - See how the header is written in the .md documents
 
-Delete index.html; jekyll will now look for home.md in _pages
+Delete index.html; jekyll will now look for _pages/home.md
 
 Delete files as indicated here: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
 - Under the header "Remove the Unnecessary"
