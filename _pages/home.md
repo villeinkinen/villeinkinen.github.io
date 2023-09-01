@@ -1,7 +1,7 @@
 ---
 #title:  "Welcome"
 layout: archive
-permalink: /Home/
+permalink: /
 hidden: true
 author_profile: true
 comments: true
