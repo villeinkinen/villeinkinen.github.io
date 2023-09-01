@@ -36,7 +36,7 @@ Bio pic stop fade at mouseover:
 	- In _sass/minimal_mistakes/_sidebar.css, copy .sidebar to main.scss
 	- In main.scss, change "opacity: 0.75" to "opacity: 1"
 - To disable the pic from being a link:
-	- In _includes/author-profile.html
+	- In _includes/author-profile.html, comment out this:
 
 	{% if author.avatar %}
 	    <div class="author__avatar">
