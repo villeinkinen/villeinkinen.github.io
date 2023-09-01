@@ -27,8 +27,8 @@ Bio pic size:
 - Same method; but I took the settings directly from _sidebar.scss
 - In the original file I left them unmodified, and then inserted the modifications in main.scss
 
-Home icon in header:
-- logo in _config.yml
+Home icon in header and no text:
+- logo and masthead in _config.yml
 
 Bio pic stop fade at mouseover:
 - https://talk.jekyllrb.com/t/avatar-image-changes-color-on-mouseover/7798/4
