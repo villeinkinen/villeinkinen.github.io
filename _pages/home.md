@@ -7,8 +7,6 @@ author_profile: true
 comments: true
 ---
 
-### About
-
 Welcome to my personal website!
 
 I'm a Postdoctoral Research Fellow at the Land, Environment, Economics and Policy Institute at the University of Exeter Business School.
@@ -18,7 +16,7 @@ I specialize in environmental economics, and my current research focuses on biod
 You can find my CV [here](/assets/pdf/CV.pdf).
 
 
-### Work in progress
+## Work in progress
 
 _Evaluation of Wetland Area Gains and Losses under the US Clean Water Act_ (with Jessica Coria, João Vaz, and Yann Clough.)
 
