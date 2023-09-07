@@ -15,6 +15,9 @@ I specialize in environmental economics, and my current research focuses on biod
 
 You can find my CV [here](/assets/pdf/CV.pdf).
 
+<br/><br/>
+
+<br/><br/>
 
 ## Work in progress
 
