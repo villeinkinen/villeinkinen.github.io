@@ -7,7 +7,7 @@ author_profile: true
 comments: true
 ---
 
-Welcome to my personal website!
+Welcome to my website!
 
 I'm a Postdoctoral Research Fellow at the Land, Environment, Economics and Policy Institute at the University of Exeter Business School.
 
