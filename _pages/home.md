@@ -15,7 +15,6 @@ My current research focuses on biodiversity conservation and land use. I combine
 
 You can find my CV [here](/assets/pdf/CV.pdf).
 
-<br/><br/>
 
 <br/><br/>
 
