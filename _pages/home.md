@@ -7,11 +7,9 @@ author_profile: true
 comments: true
 ---
 
-Welcome to my website!
+I'm a Postdoctoral Research Fellow at the Land, Environment, Economics and Policy Institute at the University of Exeter Business School. I received my PhD in Economics from the University of Gothenburg in 2023.
 
-I'm a Postdoctoral Research Fellow at the Land, Environment, Economics and Policy Institute at the University of Exeter Business School.
-
-My current research focuses on biodiversity conservation and land use. I combine microeconometric methods and quasi-experimental research designs with geospatial data analysis.
+I specialize in environmental economics and policy, and my current research focuses on biodiversity conservation and land use. I combine microeconometric methods and quasi-experimental research designs with geospatial data analysis.
 
 You can find my CV [here](/assets/pdf/CV.pdf).
 
