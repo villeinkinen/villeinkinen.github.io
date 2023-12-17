@@ -13,7 +13,9 @@ I specialize in environmental economics and policy, and my current research focu
 
 Before my education in economics, I obtained a Master of Laws degree from the University of Helsinki, and I worked for the Finnish Ministry of the Environment where I advised on matters related to EU environmental policy and law.
 
-You can find my CV [here](/assets/pdf/CV.pdf).
+[CV](/assets/pdf/CV.pdf)
+
+[Job market paper](/assets/pdf/JMP.pdf)
 
 
 <br/><br/>
