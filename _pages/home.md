@@ -11,7 +11,7 @@ I'm a Postdoctoral Research Fellow at the Land, Environment, Economics and Polic
 
 I specialize in environmental economics and policy, and my current research focuses on biodiversity conservation and land use. I combine microeconometric methods and quasi-experimental research designs with geospatial data analysis.
 
-Before my education in economics, I obtained a Master of Laws degree from the University of Helsinki, and I worked for the Finnish Ministry of the Environment where I advised on matters related to EU environmental policy and law.
+Before my education in economics, I obtained a Master of Laws degree from the University of Helsinki, and I worked at the Finnish Ministry of the Environment where I advised on matters related to EU environmental policy and law.
 
 [**CV**](/assets/pdf/CV.pdf)
 
