@@ -7,15 +7,11 @@ author_profile: true
 comments: true
 ---
 
-<div style="font-family: 'Times New Roman', Times, serif;">
 I'm a Postdoctoral Research Fellow at the Land, Environment, Economics and Policy Institute at the University of Exeter Business School. I specialize in environmental economics and policy, and my current research focuses on biodiversity conservation and land use. I combine microeconometric methods and quasi-experimental research designs with geospatial data analysis.
 
 I received my PhD in Economics from the University of Gothenburg in 2023. Before my education in economics, I obtained a Master of Laws degree from the University of Helsinki, and I worked at the Finnish Ministry of the Environment where I advised on matters related to EU environmental policy and law.
 
 [**CV**](/assets/pdf/CV.pdf)
-
-[**Job market paper**](/assets/pdf/JMP.pdf)
-
 
 <br/><br/>
 
@@ -47,5 +43,4 @@ _The Effect of Water Resource Protection on Construction Employment in the Unite
 
 <div style="margin-left: 1cm; text-align: justify;">
 <span style="font-size: 14px;">The Clean Water Rule, an executive order enacted in 2015, expanded the scope of waters that are federally protected under the Clean Water Act. I use a difference-in-differences framework to compare construction employment between the 22 states where the Rule was implemented and the 28 states where it was never implemented due to litigation in regional courts. I find that the overall effect of the Rule on construction employment was negligible, likely due to how states with stringent pre-existing state-level regulations selected into implementing the Rule. However, a negative effect appears in states that had unsuccessfully litigated against the Rule. Furthermore, the decrease in construction activity was most prominent in counties where low-cost compliance options through environmental offset markets were limited. The regulator should take steps to avoid supply shortages and monopolistic conditions in the compensation credit market without compromising its environmental integrity.</span> 
-</div>
 </div>
