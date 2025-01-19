@@ -34,7 +34,7 @@ _Forest conservation policy, additionality, and socio-environmental implications
 
 <span style="font-size: 14px;">This study assesses the effectiveness of protected areas in Bolivia from 1990 to 2023. We train a machine learning model to predict deforestation risk 20 years into the future. Then, we implement a staggered difference-in-differences design where the estimation sample is constructed by matching treated and control units based on the predicted deforestation risk. Estimates indicate that establishing protected areas reduced annual deforestation rates by about 0.5% in treated areas. Interventions in areas with high baseline deforestation risk drive this effect, while effects in low-risk areas are limited. Our findings highlight the utility of machine learning methods in intervention targeting and impact evaluation.</span> 
 
-_Accounting for biodiversity and carbon additionality risk in the Amazon in the presence of deforestation and regrowth_ (with Ben Balmford, Sarah Meier, Lorenzo Sileci, Zden&ecaron;k Ples&ecaron;k, Charles Palmer, Diana Weinhold, Sabrina Eisenbarth, Lykke Andersen, Fabiana Argando&ntilde;a, and Ben Groom)
+_Accounting for biodiversity and carbon additionality risk in the Amazon in the presence of deforestation and regrowth_ (with Ben Balmford, Sarah Meier, Lorenzo Sileci, Zden&#283;k Ples&#283;k, Charles Palmer, Diana Weinhold, Sabrina Eisenbarth, Lykke Andersen, Fabiana Argando&ntilde;a, and Ben Groom)
 
 _The Effect of Water Resource Protection on Construction Employment in the United States_
 
