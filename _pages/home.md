@@ -36,7 +36,7 @@ _(with Jessica Coria, João Vaz, and Yann Clough)_ ([Link](/assets/pdf/draft-mit
     </div>
     <div style="flex: 1;">
         <img src="https://villeinkinen.github.io/assets/images/figure_mbsiteperformance.PNG" alt="Mitigation bank site example" style="width: 100%; height: auto;">
-        <div style="font-size: 12px;">Wetland gains at an offsetting site in Minnesota. Land cover change raster from <a href="https://www.usgs.gov/special-topics/lcmap" style="color: blue; font-size: 12px;">LCMAP</a>.</div>
+        <div style="font-size: 12px;">Wetland area gains at an offsetting site in Minnesota. Land cover change raster from <a href="https://www.usgs.gov/special-topics/lcmap" style="color: blue; font-size: 12px;">LCMAP</a>.</div>
     </div>
 </div>
 
