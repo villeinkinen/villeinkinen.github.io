@@ -7,19 +7,21 @@ author_profile: true
 comments: true
 ---
 
+<div style="margin-left: 0.75cm; text-align: justify; max-width: 800px; margin: auto;">
 I'm a Postdoctoral Research Fellow at the Land, Environment, Economics and Policy Institute at the University of Exeter Business School. I specialize in environmental economics and policy, and my current research focuses on biodiversity conservation and land use. I combine microeconometric methods and quasi-experimental research designs with geospatial data analysis.
 
 I received my PhD in Economics from the University of Gothenburg in 2023. Before my education in economics, I obtained a Master of Laws degree from the University of Helsinki, and I worked at the Finnish Ministry of the Environment where I advised on matters related to EU environmental policy and law.
+</div>
 
 [**CV**](/assets/pdf/CV.pdf)
 
-<br/><br/>
+<br/>
 
 ## Working papers
 
 __Evaluation of Wetland Area Gains and Losses under the US Clean Water Act__ _(with Jessica Coria, João Vaz, and Yann Clough)_ ([Link](/assets/pdf/draft-mitigation-banks.pdf))
 
-<div style="margin-left: 0.75cm; text-align: justify;">
+<div style="margin-left: 0.75cm; text-align: justify; max-width: 800px; margin: auto;">
 <span style="font-size: 14px;">Offsetting policies reconcile development and conservation objectives by allowing environmental losses in some locations, given that the losses are compensated with equivalent gains elsewhere. We quantify net losses of wetland area under the US Clean Water Act compensatory mitigation program, which is the most extensive and longest-running environmental offsetting program in the world. A unique feature of the program is how most of the compensation is financed through a market mechanism where permittees purchase compensation credits that specialized firms have generated from wetland restoration activities. We measure environmental outcomes at these restoration sites using high-resolution satellite imagery and land cover change data. In particular, we measure wetland area gains at 400 restoration sites that were established over 1995–2020. Comparing realized compensation projects to planned but withdrawn projects in a difference-in-differences framework, we find that the majority of the environmental gains would not have occurred in absence of dedicated conservation activities. We also find that the market mechanism allocates the type and location of conservation activities according to the opportunity cost of land use. Nonetheless, the wetland area gains appear insufficient to compensate for the wetland area losses regulated within the program. This makes it unlikely that the program will achieve its environmental goals in the long term.</span> 
 </div>
 
