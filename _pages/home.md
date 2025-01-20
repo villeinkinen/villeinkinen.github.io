@@ -10,7 +10,7 @@ comments: true
 ---
 
 <span style="text-align: justify; margin: auto;">
-I'm a Postdoctoral Research Fellow at the Land, Environment, Economics and Policy Institute at the University of Exeter Business School. I specialize in environmental economics and policy, and my current research focuses on biodiversity conservation and land use. I combine microeconometric methods and quasi-experimental research designs with geospatial data analysis.
+I am a Postdoctoral Research Fellow at the Land, Environment, Economics and Policy Institute at the University of Exeter Business School. I specialize in environmental economics and policy, and my current research focuses on biodiversity conservation and land use. I combine microeconometric methods and quasi-experimental research designs with geospatial data analysis.
 </span>
 
 <span  style="text-align: justify; margin: auto;">
