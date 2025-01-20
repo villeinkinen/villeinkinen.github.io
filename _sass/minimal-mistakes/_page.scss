@@ -10,7 +10,7 @@
   padding-right: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
-  max-width: 200%;
+  max-width: 100%;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
@@ -55,7 +55,9 @@ body {
     width: 100%;
     clear: both;
 
-    .page__content,
+    .page__content, {
+      max-width: 150%;
+    }
     .page__meta,
     .page__share {
       position: relative;
