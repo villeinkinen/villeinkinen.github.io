@@ -51,7 +51,7 @@ _(with Ben Balmford, Sarah Meier, Lorenzo Sileci, Zden&#283;k Ples&#283;k, Charl
     </div>
     <div style="flex: 1;">
         <img src="https://villeinkinen.github.io/assets/images/sa-s-hat-forest-diff.png" alt="South America intervention targeting" style="width: 70%; height: auto;">
-        <div style="font-size: 12px;">The map highlights locations with existing forest cover where, due to baseline projections predicting deforestation, protection interventions are likely to have a high causal effect. Forest cover survival predictions from a Random Survival Forest model using <a href="https://amazonia.mapbiomas.org/" style="color: blue; font-size: 12px;">MapBiomas</a> land cover data.</div>
+        <div style="font-size: 12px;">The map highlights locations with existing forest cover where, due to BAU predictions indicate deforestation, protection interventions are likely to have a high causal effect. Forest cover survival predictions from a Random Survival Forest model using <a href="https://amazonia.mapbiomas.org/" style="color: blue; font-size: 12px;">MapBiomas</a> land cover data.</div>
     </div>
 </div>
 
