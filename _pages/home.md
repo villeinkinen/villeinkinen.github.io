@@ -17,9 +17,13 @@ I'm a Postdoctoral Research Fellow at the Land, Environment, Economics and Polic
 I received my PhD in Economics from the University of Gothenburg in 2023. Before my education in economics, I obtained a Master of Laws degree from the University of Helsinki, and I worked at the Finnish Ministry of the Environment where I advised on matters related to EU environmental policy and law.
 </span>
 
-[**CV**](/assets/pdf/CV_short.pdf)
+[Curriculum Vitae](/assets/pdf/CV_short.pdf)
+
+You can find information about my research projects below.
 
 <br/>
+
+---
 
 ## Working papers
 
@@ -37,6 +41,8 @@ _(with Jessica Coria, João Vaz, and Yann Clough)_ ([Link](/assets/pdf/draft-mit
         <div style="font-size: 12px;">Wetland gains at an offsetting site in Minnesota. Land cover change raster from <a href="https://www.usgs.gov/special-topics/lcmap" style="color: blue; font-size: 12px;">LCMAP</a>.</div>
     </div>
 </div>
+
+---
 
 ## Work in progress
 
