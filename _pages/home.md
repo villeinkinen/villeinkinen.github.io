@@ -23,7 +23,7 @@ I received my PhD in Economics from the University of Gothenburg in 2023. Before
 
 ## Working papers
 
-__Evaluation of Wetland Area Gains and Losses under the US Clean Water Act__
+__Evaluation of Wetland Area Gains and Losses under the US Clean Water Act__<br>
 _(with Jessica Coria, João Vaz, and Yann Clough)_ ([Link](/assets/pdf/draft-mitigation-banks.pdf))
 
 <div style="text-align: justify; max-width: 1200px; margin: auto;">
@@ -32,7 +32,7 @@ _(with Jessica Coria, João Vaz, and Yann Clough)_ ([Link](/assets/pdf/draft-mit
 
 ## Work in progress
 
-__Forest conservation policy, additionality, and socio-environmental implications__
+__Forest conservation policy, additionality, and socio-environmental implications__<br>
 _(with Sarah Meier and Ben Balmford)_
 
 <div style="text-align: justify; max-width: 1200px; margin: auto;">
@@ -40,7 +40,7 @@ _(with Sarah Meier and Ben Balmford)_
 </div>
 
 
-__Accounting for carbon additionality in the presence of deforestation and regrowth__
+__Accounting for carbon additionality in the presence of deforestation and regrowth__<br>
 _(with Ben Balmford, Sarah Meier, Lorenzo Sileci, Zden&#283;k Ples&#283;k, Charles Palmer, Diana Weinhold, Sabrina Eisenbarth, Lykke Andersen, Fabiana Argando&ntilde;a, and Ben Groom)_
 
 
@@ -50,7 +50,7 @@ __The Effect of Water Resource Protection on Construction Employment in the Unit
 <span style="font-size: 14px;">The Clean Water Rule, an executive order enacted in 2015, expanded the scope of waters that are federally protected under the Clean Water Act. I use a difference-in-differences framework to compare construction employment between the 22 states where the Rule was implemented and the 28 states where it was never implemented due to litigation in regional courts. I find that the overall effect of the Rule on construction employment was negligible, likely due to how states with stringent pre-existing state-level regulations selected into implementing the Rule. However, a negative effect appears in states that had unsuccessfully litigated against the Rule. Furthermore, the decrease in construction activity was most prominent in counties where low-cost compliance options through environmental offset markets were limited. The regulator should take steps to avoid supply shortages and monopolistic conditions in the compensation credit market without compromising its environmental integrity.</span> 
 </div>
 
-__Offsetting biodiversity: What drives the choice of offset mechanism in the US Wetland Mitigation Program?__
+__Offsetting biodiversity: What drives the choice of offset mechanism in the US Wetland Mitigation Program?__<br>
 _(with Jessica Coria and João Vaz)_
 
 <div style="text-align: justify; max-width: 1200px; margin: auto;">
