@@ -1,5 +1,6 @@
 ---
 #title:  "Welcome"
+#page width can be adjusted in assts/css/main.scss
 layout: archive
 classes: wide
 permalink: /
