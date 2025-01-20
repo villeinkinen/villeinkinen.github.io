@@ -1,6 +1,6 @@
 ---
 #title:  "Welcome"
-#page width can be adjusted in assts/css/main.scss
+#page width can be adjusted in assts/css/main.scss - some strange interactio nwith max-width there and max-width here in the div tags. the div tags work now
 layout: archive
 classes: wide
 permalink: /
