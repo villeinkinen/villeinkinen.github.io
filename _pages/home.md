@@ -33,7 +33,7 @@ Offsetting policies reconcile development and conservation objectives by allowin
         </span>
     </div>
     <div style="flex: 1;">
-        <img src="/assets/images/figure_mbsiteperformance.png" alt="Description of the image" style="width: 100%; height: auto;">
+        <img src="https://villeinkinen.github.io/assets/images/figure_mbsiteperformance.PNG" alt="Description of the image" style="width: 100%; height: auto;">
     </div>
 </div>
 
