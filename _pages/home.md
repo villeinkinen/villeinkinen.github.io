@@ -1,6 +1,6 @@
 ---
 #title:  "Welcome"
-layout: single
+layout: archive
 classes: wide
 permalink: /
 hidden: true
