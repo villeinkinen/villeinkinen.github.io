@@ -50,7 +50,7 @@ _(with Ben Balmford, Sarah Meier, Lorenzo Sileci, Zden&#283;k Ples&#283;k, Charl
         </span>
     </div>
     <div style="flex: 1;">
-        <img src="https://villeinkinen.github.io/assets/images/sa-s-hat-forest-diff.png" alt="South America intervention targeting" style="width: 80%; height: auto;">
+        <img src="https://villeinkinen.github.io/assets/images/sa-s-hat-forest-diff.png" alt="South America intervention targeting" style="width: 70%; height: auto;">
         <div style="font-size: 12px;">The map highlights locations where forest conservation is predicted to have high potential additionality. Forest cover survival probability predicted with ma</div>
     </div>
 </div>
