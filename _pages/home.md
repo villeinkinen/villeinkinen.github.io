@@ -34,7 +34,7 @@ _(with Jessica Coria, João Vaz, and Yann Clough)_ ([Link](/assets/pdf/draft-mit
     </div>
     <div style="flex: 1;">
         <img src="https://villeinkinen.github.io/assets/images/figure_mbsiteperformance.PNG" alt="Mitigation bank site example" style="width: 100%; height: auto;">
-        <div style="font-size: 12px;">Wetland gains at an offsetting site</div>
+        <div style="font-size: 12px;">Wetland gains at an offsetting site in Minnesota. Land cover change raster from <a href="https://www.usgs.gov/special-topics/lcmap" style="color: blue; font-size: 12px;">LCMAP</a>.</div>
     </div>
 </div>
 
@@ -51,7 +51,7 @@ _(with Ben Balmford, Sarah Meier, Lorenzo Sileci, Zden&#283;k Ples&#283;k, Charl
     </div>
     <div style="flex: 1;">
         <img src="https://villeinkinen.github.io/assets/images/sa-s-hat-forest-diff.png" alt="South America intervention targeting" style="width: 80%; height: auto;">
-        <div style="font-size: 12px;">The map highlights locations where forest conservation is predicted to have high potential additionality</div>
+        <div style="font-size: 12px;">The map highlights locations where forest conservation is predicted to have high potential additionality. Forest cover survival probability predicted with ma</div>
     </div>
 </div>
 
