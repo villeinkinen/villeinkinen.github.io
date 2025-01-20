@@ -19,8 +19,6 @@ I received my PhD in Economics from the University of Gothenburg in 2023. Before
 
 [Curriculum Vitae](/assets/pdf/CV_short.pdf)
 
-You can find information about my research projects below.
-
 <br/>
 
 ---
