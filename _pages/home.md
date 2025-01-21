@@ -45,7 +45,7 @@ _(with Jessica Coria, João Vaz, and Yann Clough)_ ([Link](/assets/pdf/draft-mit
 ## Work in progress
 
 __Accounting for carbon additionality in the presence of deforestation and regrowth__<br>
-_(with Ben Balmford, Sarah Meier, Lorenzo Sileci, Zden&#283;k Ples&#283;k, Charles Palmer, Diana Weinhold, Sabrina Eisenbarth, Lykke Andersen, Fabiana Argando&ntilde;a, and Ben Groom)_
+_(with Ben Balmford, Sarah Meier, Zden&#283;k Ples&#283;k, Lykke Andersen, Fabiana Argando&ntilde;a, Sabrina Eisenbarth, Charles Palmer, Lorenzo Sileci, Diana Weinhold, and Ben Groom)_
 
 <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 1000px; margin: auto;">
     <div style="flex: 1; text-align: justify;">
