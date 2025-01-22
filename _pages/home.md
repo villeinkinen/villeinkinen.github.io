@@ -74,7 +74,7 @@ __The Effect of Water Resource Protection on Construction Employment in the Unit
 </div>
 
 __Offsetting biodiversity: What drives the choice of offset mechanism in the US Wetland Mitigation Program?__<br>
-_(with Jessica Coria and João Vaz)_
+_(with João Vaz and Jessica Coria)_
 
 <div style="text-align: justify; max-width: 800px; margin: auto;">
 <span style="font-size: 14px;">This paper examines offset method decisions under the US wetland mitigation program and compares the cost effectiveness of prescriptive on-site and market-based off-site approaches. By measuring costs through land values and benefits through flood control values, we highlight a clear trade-off between these two mechanisms. Prescriptive on-site compensation incurs higher costs but delivers greater benefits, while market-based off-site compensation leads to lower costs but also reduced benefits. Our analysis also reveals that cost minimization heavily influences the regulator's choice of offset method, while flood control benefits appear to be absent from policy determinations. This finding, combined with the increased adoption of third-party offsets, reveals an overreliance on the market mechanism. Although policy guidelines explicitly state that decisions should be based on both the costs and benefits of alternative offset methods, our findings indicate that regulatory decisions overlook the flood control benefits of prescriptive offsets, thereby deviating from the policy rule.</span> 
