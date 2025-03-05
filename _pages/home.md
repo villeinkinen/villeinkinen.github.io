@@ -17,7 +17,7 @@ I am a Postdoctoral Research Fellow at the Land, Environment, Economics and Poli
 I received my PhD in Economics from the University of Gothenburg in 2023. Before my education in economics, I obtained a Master of Laws degree from the University of Helsinki, and I worked at the Finnish Ministry of the Environment where I advised on matters related to EU environmental policy and law.
 </span>
 
-[Curriculum Vitae](/assets/pdf/CV_short.pdf)
+[Curriculum Vitae](/assets/pdf/CV.pdf)
 
 <br/>
 
