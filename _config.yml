@@ -107,13 +107,13 @@ analytics:
 author:
   name             : "Ville Inkinen"
   avatar           : "/assets/images/photo_bio.jpg"
-  bio              : "Postdoc @ LEEP Institute, University of Exeter Business School"
-  location         : "Exeter, UK"
+  bio              : "Postdoc @ Department of Environmental Science, Aarhus University"
+  location         : "Roskilde, Denmark"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:v.p.inkinen@exeter.ac.uk"
+      url: "mailto:ville.inkinen@envs.au.dk"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
