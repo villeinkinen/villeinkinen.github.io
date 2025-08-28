@@ -10,7 +10,7 @@ comments: true
 ---
 
 <span style="text-align: justify; margin: auto;">
-I am a Postdoctoral Research Fellow at the Land, Environment, Economics and Policy Institute at the University of Exeter Business School. I specialize in environmental economics and policy, and my current research encompasses a wide range of topics related to land use, including tropical forest conservation, biodiversity, and offsetting mechanisms. I combine microeconometric methods and quasi-experimental research designs with Earth observation data.
+I am a Postdoctoral Fellow at the Department of Environmental Science, Aarhus University. I specialize in environmental economics and policy, and my current research encompasses a wide range of topics related to land use, including tropical forest conservation, biodiversity, and offsetting mechanisms. My research combines microeconometric methods and quasi-experimental designs with Earth observation data.
 </span>
 
 <span  style="text-align: justify; margin: auto;">
