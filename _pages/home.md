@@ -25,7 +25,7 @@ I received my PhD in Economics from the University of Gothenburg in 2023. Before
 
 ## Working papers
 
-__Evaluation of Wetland Area Gains and Losses under the US Clean Water Act__<br>
+__Additionality in Environmental Offset Markets: Evidence from the US Wetland Mitigation Banking program__<br>
 _(with Jessica Coria, João Vaz, and Yann Clough)_ (new draft coming soon!)
 
 <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 1000px; margin: auto;">
