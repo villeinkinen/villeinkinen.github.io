@@ -25,7 +25,7 @@ I received my PhD in Economics from the University of Gothenburg in 2023. Before
 
 ## Working papers
 
-__The Price of Additionality in Offset Markets: Evidence from US Wetland Mitigation Banking__<br>
+__Additionality in Offset Markets: Evidence from US Wetland Mitigation Banking__<br>
 _(with Jessica Coria, João Vaz, and Yann Clough)_ (new version coming soon!)
 
 <div style="display: flex; justify-content: center; align-items: flex-start; max-width: 1000px; margin: auto;">
